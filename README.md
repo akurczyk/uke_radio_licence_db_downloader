@@ -1,2 +1,2 @@
-# nadajniki
-Skrypt pobierający spis (w formacie CSV) nadajników radiowych na podstawie spisu pozwoleń radiowych publikowanego przez Urząd Komunikacji Elektronicznej.
+# UKE radio licence database downloader
+Script that downloads the list (in CSV format) of radio transmitters basing on the official database of radio licenses published by Polish Office of Electronic Communications.
